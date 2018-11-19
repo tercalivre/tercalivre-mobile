@@ -1,6 +1,6 @@
-# tercalivre
+# Terça Livre - APPs
 
-A new Flutter project.
+Aplicativo iOS e Android do Terça Livre
 
 ## Getting Started
 
